@@ -4,4 +4,4 @@ This is my first GitHub repository that I created without any groupmates. In thi
 
 #1- Added login endpoint.
 
-#2- Added signup endpoint (The code didn't overwrite the previous one so I deleted it).
+#2- Added signup endpoint (The code didn't overwrite with the previous one, so I deleted it).
